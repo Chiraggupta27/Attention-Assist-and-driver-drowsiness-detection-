@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chiraggupta27
+- 👋 Hi, I’m @chirag gupta
 - 👀 I’m interested in Data Analyst and software developer 
 - 🌱 I’m currently learning python and sql for data analyst career
 - 💞️ I’m looking to collaborate on new technologies and help others and gain more knowledge
